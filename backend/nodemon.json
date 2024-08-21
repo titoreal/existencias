@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_TITIN_PW": "Titin004",
+        "JWT_KEY": "Titin004"
+    }
+}
